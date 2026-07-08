@@ -18,6 +18,11 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "PMPilot | Enterprise Project Intelligence",
   description: "AI-first Enterprise solutions for Project Management, PMO Governance, and Delivery Intelligence.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
