@@ -94,7 +94,7 @@ export default function Navbar() {
                 <span className="font-sans text-xl font-bold tracking-tight text-text-brand">
                   PMPilot<span className="text-primary">.in</span>
                 </span>
-                <span className="text-[9px] font-medium uppercase tracking-wider text-text-secondary-brand -mt-1">
+                <span className="text-xs font-medium uppercase tracking-wider text-text-secondary-brand -mt-1">
                   AI-First Enterprise
                 </span>
               </div>
